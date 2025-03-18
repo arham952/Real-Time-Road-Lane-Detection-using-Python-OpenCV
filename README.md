@@ -31,8 +31,8 @@ pip install opencv-python numpy matplotlib
 For real-time detection from the webcam, run:
 
 python lane_detection.py
-For video file input, modify the script to load your video:
 
+For video file input, modify the script to load your video:
 cap = cv2.VideoCapture('your_video.mp4')
 
 Sample Output
